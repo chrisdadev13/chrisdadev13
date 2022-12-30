@@ -1,5 +1,9 @@
-# 👋 Hey!!
+# 👋 Hey!
+--
+## About Me
+--
 <div>
-My name's Chris and I'm a software engineer student, trying to become a Full-Stack developer. I love competitive programming and learn about
-software and software development. I enjoy programming, "cool", web applications with Javascript/Typescript and also learn new concepts about during the process.
+I am a software developer with a passion for building well-designed and scalable applications. I enjoy learning about new technologies and finding creative ways to solve problems. On GitHub, I am excited to connect with other developers and collaborate on projects that push the boundaries of what is possible. Whether I am contributing to existing projects or building my own, I am always looking for ways to learn and grow as a developer. I am excited to be a part of the vibrant open source community on GitHub and to make a positive impact through my work.
 </div>
+
+
