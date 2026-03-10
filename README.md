@@ -1,2 +1,4 @@
-# About Me:
-🔭 Software Engineering student, trying to be a Full-Stack Developer<br>🌱 I’m currently learning Rust <br>💬 Building Open-Source SaaS products <br>⚡Trying to create new solutions every day
+# About Me
+💻 SWE  
+🚀 Building products and internet tools  
+⚡ Always experimenting and shipping
